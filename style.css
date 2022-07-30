@@ -31,10 +31,5 @@ footer{
 }
 
 .font-icon i{
-    padding: 0 10px;
-}
-
-.font-icon i:hover{
-    color: rgba(43, 168, 240, 0.933);
-    transition: .8s;
+    padding: 0 15px;
 }
